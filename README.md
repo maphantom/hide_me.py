@@ -17,7 +17,7 @@ To run this project, you need:
 
 - Python 3.x
 - Required Python libraries:
-  - `Pillow` (for image processing)
+  - `steganography` (for image processing)
 
 You can install the required libraries using pip:
 
